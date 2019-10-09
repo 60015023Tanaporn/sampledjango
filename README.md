@@ -1,2 +1,2 @@
 # sampledjango
-# 45646jhFKJFHC
+# 45646jhF
